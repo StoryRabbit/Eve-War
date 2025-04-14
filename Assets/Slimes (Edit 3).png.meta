@@ -1,0 +1,2556 @@
+fileFormatVersion: 2
+guid: b108ec50ff71db3488b4db95e19e9575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8488157707905438652
+    second: Slimes (Edit 3)_0
+  - first:
+      213: 8543005512976118589
+    second: Slimes (Edit 3)_1
+  - first:
+      213: -7777919501630763227
+    second: Slimes (Edit 3)_2
+  - first:
+      213: 7264131692237493585
+    second: Slimes (Edit 3)_3
+  - first:
+      213: -3557251528857125513
+    second: Slimes (Edit 3)_4
+  - first:
+      213: -7168974529181329004
+    second: Slimes (Edit 3)_5
+  - first:
+      213: 2498542905617886126
+    second: Slimes (Edit 3)_6
+  - first:
+      213: -3402080187004821182
+    second: Slimes (Edit 3)_7
+  - first:
+      213: 4211362902546698386
+    second: Slimes (Edit 3)_8
+  - first:
+      213: -1229766086904160843
+    second: Slimes (Edit 3)_9
+  - first:
+      213: -7580398688967621659
+    second: Slimes (Edit 3)_10
+  - first:
+      213: 1436928732368265084
+    second: Slimes (Edit 3)_11
+  - first:
+      213: -2811893988937946961
+    second: Slimes (Edit 3)_12
+  - first:
+      213: 7231628314176138297
+    second: Slimes (Edit 3)_13
+  - first:
+      213: -2057057789819816291
+    second: Slimes (Edit 3)_14
+  - first:
+      213: 820702798053245369
+    second: Slimes (Edit 3)_15
+  - first:
+      213: 7489718381424623973
+    second: Slimes (Edit 3)_16
+  - first:
+      213: 4436032028953200508
+    second: Slimes (Edit 3)_17
+  - first:
+      213: 8859451985399130607
+    second: Slimes (Edit 3)_18
+  - first:
+      213: -7019088658360616404
+    second: Slimes (Edit 3)_19
+  - first:
+      213: -2423065005216461798
+    second: Slimes (Edit 3)_20
+  - first:
+      213: -5343910169346447338
+    second: Slimes (Edit 3)_21
+  - first:
+      213: 4782308811081597590
+    second: Slimes (Edit 3)_22
+  - first:
+      213: 3956549944328504806
+    second: Slimes (Edit 3)_23
+  - first:
+      213: 7397615288540903272
+    second: Slimes (Edit 3)_24
+  - first:
+      213: 8095399665634975862
+    second: Slimes (Edit 3)_25
+  - first:
+      213: -8263481150029153447
+    second: Slimes (Edit 3)_26
+  - first:
+      213: -6321840328395068716
+    second: Slimes (Edit 3)_27
+  - first:
+      213: 8103901871235289362
+    second: Slimes (Edit 3)_28
+  - first:
+      213: -6649108171731379300
+    second: Slimes (Edit 3)_29
+  - first:
+      213: 87090418879167448
+    second: Slimes (Edit 3)_30
+  - first:
+      213: 333294128207569578
+    second: Slimes (Edit 3)_31
+  - first:
+      213: -8539352628308918708
+    second: Slimes (Edit 3)_32
+  - first:
+      213: -7184509695391554341
+    second: Slimes (Edit 3)_33
+  - first:
+      213: 8023281290315251974
+    second: Slimes (Edit 3)_34
+  - first:
+      213: -7969159647220897421
+    second: Slimes (Edit 3)_35
+  - first:
+      213: -2822146922190817330
+    second: Slimes (Edit 3)_36
+  - first:
+      213: -1694390911550881242
+    second: Slimes (Edit 3)_37
+  - first:
+      213: 2820045206766575007
+    second: Slimes (Edit 3)_38
+  - first:
+      213: 8280627618132217164
+    second: Slimes (Edit 3)_39
+  - first:
+      213: 4846704209375805152
+    second: Slimes (Edit 3)_40
+  - first:
+      213: -5384666003772144353
+    second: Slimes (Edit 3)_41
+  - first:
+      213: -2500572392362165950
+    second: Slimes (Edit 3)_42
+  - first:
+      213: 2490832970056050018
+    second: Slimes (Edit 3)_43
+  - first:
+      213: -6518506716496513597
+    second: Slimes (Edit 3)_44
+  - first:
+      213: 4523669558076685171
+    second: Slimes (Edit 3)_45
+  - first:
+      213: 2248474454200862620
+    second: Slimes (Edit 3)_46
+  - first:
+      213: -5245023617135564907
+    second: Slimes (Edit 3)_47
+  - first:
+      213: -218162498050207709
+    second: Slimes (Edit 3)_48
+  - first:
+      213: 1085252161177181533
+    second: Slimes (Edit 3)_49
+  - first:
+      213: -238546123730024847
+    second: Slimes (Edit 3)_50
+  - first:
+      213: 1059144981749375230
+    second: Slimes (Edit 3)_51
+  - first:
+      213: 7371461498766877522
+    second: Slimes (Edit 3)_52
+  - first:
+      213: 241655411637625222
+    second: Slimes (Edit 3)_53
+  - first:
+      213: 3823220142856021870
+    second: Slimes (Edit 3)_54
+  - first:
+      213: -4836466598857556877
+    second: Slimes (Edit 3)_55
+  - first:
+      213: -26090484084512055
+    second: Slimes (Edit 3)_56
+  - first:
+      213: 8091213395631756310
+    second: Slimes (Edit 3)_57
+  - first:
+      213: 5834875544673221298
+    second: Slimes (Edit 3)_58
+  - first:
+      213: -2245477164359300471
+    second: Slimes (Edit 3)_59
+  - first:
+      213: 5136497296805873837
+    second: Slimes (Edit 3)_60
+  - first:
+      213: -720811993463062427
+    second: Slimes (Edit 3)_61
+  - first:
+      213: -4611243579638718341
+    second: Slimes (Edit 3)_62
+  - first:
+      213: 2636380586742923946
+    second: Slimes (Edit 3)_63
+  - first:
+      213: 8482849916744659632
+    second: Slimes (Edit 3)_64
+  - first:
+      213: 2826751838526214037
+    second: Slimes (Edit 3)_65
+  - first:
+      213: 1223616142937138026
+    second: Slimes (Edit 3)_66
+  - first:
+      213: 6965131296748443810
+    second: Slimes (Edit 3)_67
+  - first:
+      213: -4437218289290601184
+    second: Slimes (Edit 3)_68
+  - first:
+      213: 1592665467373737885
+    second: Slimes (Edit 3)_69
+  - first:
+      213: -8563140094245712371
+    second: Slimes (Edit 3)_70
+  - first:
+      213: -2444099137162674376
+    second: Slimes (Edit 3)_71
+  - first:
+      213: -5111665666900068182
+    second: Slimes (Edit 3)_72
+  - first:
+      213: -1749526598952962375
+    second: Slimes (Edit 3)_73
+  - first:
+      213: 31445959189373948
+    second: Slimes (Edit 3)_74
+  - first:
+      213: 5515607774841450070
+    second: Slimes (Edit 3)_75
+  - first:
+      213: -2802065101992450715
+    second: Slimes (Edit 3)_76
+  - first:
+      213: 4234042894184138219
+    second: Slimes (Edit 3)_77
+  - first:
+      213: 9096235824509414146
+    second: Slimes (Edit 3)_78
+  - first:
+      213: 6498903523930460506
+    second: Slimes (Edit 3)_79
+  - first:
+      213: 5418966865084998848
+    second: Slimes (Edit 3)_80
+  - first:
+      213: -5662243319715137589
+    second: Slimes (Edit 3)_81
+  - first:
+      213: 5557041531394685330
+    second: Slimes (Edit 3)_82
+  - first:
+      213: -6984374157009662049
+    second: Slimes (Edit 3)_83
+  - first:
+      213: -2876817498397556023
+    second: Slimes (Edit 3)_84
+  - first:
+      213: -1968140104681975845
+    second: Slimes (Edit 3)_85
+  - first:
+      213: 4568432846306721457
+    second: Slimes (Edit 3)_86
+  - first:
+      213: 388536020488113277
+    second: Slimes (Edit 3)_87
+  - first:
+      213: 9087743106015467962
+    second: Slimes (Edit 3)_88
+  - first:
+      213: 217328713134495635
+    second: Slimes (Edit 3)_89
+  - first:
+      213: 2342343161326105406
+    second: Slimes (Edit 3)_90
+  - first:
+      213: 3168277736215816952
+    second: Slimes (Edit 3)_91
+  - first:
+      213: 3262472882529862521
+    second: Slimes (Edit 3)_92
+  - first:
+      213: -3422421081339632001
+    second: Slimes (Edit 3)_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6dce6981043a80800000000000000
+      internalID: -8488157707905438652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 319
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d333523504ade8670800000000000000
+      internalID: 8543005512976118589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 337
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f07b52c674f0490800000000000000
+      internalID: -7777919501630763227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 320
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155197d79416fc460800000000000000
+      internalID: 7264131692237493585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 320
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d71c5e49a12aec0800000000000000
+      internalID: -3557251528857125513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499d25806afa28c90800000000000000
+      internalID: -7168974529181329004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab2d69e88b9ca220800000000000000
+      internalID: 2498542905617886126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241ee2c481269c0d0800000000000000
+      internalID: -3402080187004821182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290dd824f34c17a30800000000000000
+      internalID: 4211362902546698386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5141724efeeee0800000000000000
+      internalID: -1229766086904160843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38f381e830dc690800000000000000
+      internalID: -7580398688967621659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 271
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fdc54a11ff0f310800000000000000
+      internalID: 1436928732368265084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa82c4ba0552af8d0800000000000000
+      internalID: -2811893988937946961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 160
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c202e03a7eb5460800000000000000
+      internalID: 7231628314176138297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96f653c6dcd373e0800000000000000
+      internalID: -2057057789819816291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10228b8d8b36b00800000000000000
+      internalID: 820702798053245369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56147888f23d0f760800000000000000
+      internalID: 7489718381424623973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c20290a3ff8d30800000000000000
+      internalID: 4436032028953200508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9285e24a813fa70800000000000000
+      internalID: 8859451985399130607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a317fcd00379e90800000000000000
+      internalID: -7019088658360616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c8468373b8f5ed0800000000000000
+      internalID: -2423065005216461798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e184a30e96d5b0800000000000000
+      internalID: -5343910169346447338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 224
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6924db2a68c2e5240800000000000000
+      internalID: 4782308811081597590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5cacf263d78e630800000000000000
+      internalID: 3956549944328504806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 226
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ba7229eb99a660800000000000000
+      internalID: 7397615288540903272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6702df8ca13a85070800000000000000
+      internalID: 8095399665634975862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 226
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b30640da7325d80800000000000000
+      internalID: -8263481150029153447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae54347bf4448a0800000000000000
+      internalID: -6321840328395068716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2115a99c0d7d67070800000000000000
+      internalID: 8103901871235289362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bddc6a85f99b3a0800000000000000
+      internalID: -6649108171731379300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf1a84648653100800000000000000
+      internalID: 87090418879167448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa229856e3910a400800000000000000
+      internalID: 333294128207569578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e39d927002e7980800000000000000
+      internalID: -8539352628308918708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd426d84f7e7b4c90800000000000000
+      internalID: -7184509695391554341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601474a03db685f60800000000000000
+      internalID: 8023281290315251974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3796505f58bd76190800000000000000
+      internalID: -7969159647220897421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7bade9358b5d8d0800000000000000
+      internalID: -2822146922190817330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6220c5671705c78e0800000000000000
+      internalID: -1694390911550881242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d5ddf9c20d22720800000000000000
+      internalID: 2820045206766575007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 224
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4f0032f2bae270800000000000000
+      internalID: 8280627618132217164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee3c3bacc3f24340800000000000000
+      internalID: 4846704209375805152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f150a0b7cc2d545b0800000000000000
+      internalID: -5384666003772144353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249ba1268ae2c4dd0800000000000000
+      internalID: -2500572392362165950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a507a367319220800000000000000
+      internalID: 2490832970056050018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c53a398dac9985a0800000000000000
+      internalID: -6518506716496513597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bb862ee7d47ce30800000000000000
+      internalID: 4523669558076685171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ce296a9f243f10800000000000000
+      internalID: 2248474454200862620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597a91e3fcee537b0800000000000000
+      internalID: -5245023617135564907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320d7682d5ee8fcf0800000000000000
+      internalID: -218162498050207709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 131
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dd0b637179f0f00800000000000000
+      internalID: 1085252161177181533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768688709380bcf0800000000000000
+      internalID: -238546123730024847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02fc2dfb6d2be00800000000000000
+      internalID: 1059144981749375230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 118
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e77d6d21bc4660800000000000000
+      internalID: 7371461498766877522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68126b801588a5300800000000000000
+      internalID: 241655411637625222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e672d01b67ece0530800000000000000
+      internalID: 3823220142856021870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cbd07c04b61ecb0800000000000000
+      internalID: -4836466598857556877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 121
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caef1cc7de43aff0800000000000000
+      internalID: -26090484084512055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 117
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6145388d6b3c94070800000000000000
+      internalID: 8091213395631756310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 117
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98acc138a6676d0e0800000000000000
+      internalID: -2245477164359300471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 120
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da84eddb311884740800000000000000
+      internalID: 5136497296805873837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5600bcb9f492ff5f0800000000000000
+      internalID: -720811993463062427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa24c8dec2e469420800000000000000
+      internalID: 2636380586742923946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b274822e0329b570800000000000000
+      internalID: 8482849916744659632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f898302d3aa3720800000000000000
+      internalID: 2826751838526214037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63a33526682bf010800000000000000
+      internalID: 1223616142937138026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a895a4f20e19a060800000000000000
+      internalID: 6965131296748443810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d97fba975db62c0800000000000000
+      internalID: -4437218289290601184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d7d4edc84a1610800000000000000
+      internalID: 1592665467373737885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e4498247d992980800000000000000
+      internalID: -8563140094245712371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f749db8c0d41ed0800000000000000
+      internalID: -2444099137162674376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 81
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87cd1a827bf09b0800000000000000
+      internalID: -5111665666900068182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 82
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6bf40e3de68b7e0800000000000000
+      internalID: -1749526598952962375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 82
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3aa1beee7bf6000800000000000000
+      internalID: 31445959189373948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eaecb5c006b8c40800000000000000
+      internalID: 5515607774841450070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565a83eb2a01d19d0800000000000000
+      internalID: -2802065101992450715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 160
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5cc9f449752ca30800000000000000
+      internalID: 4234042894184138219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20be019d9425c3e70800000000000000
+      internalID: 9096235824509414146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51d865825eb03a50800000000000000
+      internalID: 6498903523930460506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e00327a9043b40800000000000000
+      internalID: 5418966865084998848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7fc8853bbab61b0800000000000000
+      internalID: -5662243319715137589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997fd094d39e1d40800000000000000
+      internalID: 5557041531394685330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f450185b4821f90800000000000000
+      internalID: -6984374157009662049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2c26c2abd7318d0800000000000000
+      internalID: -2876817498397556023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf0b30a003cfa4e0800000000000000
+      internalID: -1968140104681975845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb6581875566f30800000000000000
+      internalID: 4568432846306721457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c43abb37b546500800000000000000
+      internalID: 388536020488113277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab99e0cb4362e1e70800000000000000
+      internalID: 9087743106015467962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397dfd9205b140300800000000000000
+      internalID: 217328713134495635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3378e8e1bca18020800000000000000
+      internalID: 2342343161326105406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa2ce890dbf7fb20800000000000000
+      internalID: 3168277736215816952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_92
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97389842dc1a64d20800000000000000
+      internalID: 3262472882529862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slimes (Edit 3)_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7661f6c82e1180d0800000000000000
+      internalID: -3422421081339632001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69c427246fed74348acead667e2bf3f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slimes (Edit 3)_0: -8488157707905438652
+      Slimes (Edit 3)_1: 8543005512976118589
+      Slimes (Edit 3)_10: -7580398688967621659
+      Slimes (Edit 3)_11: 1436928732368265084
+      Slimes (Edit 3)_12: -2811893988937946961
+      Slimes (Edit 3)_13: 7231628314176138297
+      Slimes (Edit 3)_14: -2057057789819816291
+      Slimes (Edit 3)_15: 820702798053245369
+      Slimes (Edit 3)_16: 7489718381424623973
+      Slimes (Edit 3)_17: 4436032028953200508
+      Slimes (Edit 3)_18: 8859451985399130607
+      Slimes (Edit 3)_19: -7019088658360616404
+      Slimes (Edit 3)_2: -7777919501630763227
+      Slimes (Edit 3)_20: -2423065005216461798
+      Slimes (Edit 3)_21: -5343910169346447338
+      Slimes (Edit 3)_22: 4782308811081597590
+      Slimes (Edit 3)_23: 3956549944328504806
+      Slimes (Edit 3)_24: 7397615288540903272
+      Slimes (Edit 3)_25: 8095399665634975862
+      Slimes (Edit 3)_26: -8263481150029153447
+      Slimes (Edit 3)_27: -6321840328395068716
+      Slimes (Edit 3)_28: 8103901871235289362
+      Slimes (Edit 3)_29: -6649108171731379300
+      Slimes (Edit 3)_3: 7264131692237493585
+      Slimes (Edit 3)_30: 87090418879167448
+      Slimes (Edit 3)_31: 333294128207569578
+      Slimes (Edit 3)_32: -8539352628308918708
+      Slimes (Edit 3)_33: -7184509695391554341
+      Slimes (Edit 3)_34: 8023281290315251974
+      Slimes (Edit 3)_35: -7969159647220897421
+      Slimes (Edit 3)_36: -2822146922190817330
+      Slimes (Edit 3)_37: -1694390911550881242
+      Slimes (Edit 3)_38: 2820045206766575007
+      Slimes (Edit 3)_39: 8280627618132217164
+      Slimes (Edit 3)_4: -3557251528857125513
+      Slimes (Edit 3)_40: 4846704209375805152
+      Slimes (Edit 3)_41: -5384666003772144353
+      Slimes (Edit 3)_42: -2500572392362165950
+      Slimes (Edit 3)_43: 2490832970056050018
+      Slimes (Edit 3)_44: -6518506716496513597
+      Slimes (Edit 3)_45: 4523669558076685171
+      Slimes (Edit 3)_46: 2248474454200862620
+      Slimes (Edit 3)_47: -5245023617135564907
+      Slimes (Edit 3)_48: -218162498050207709
+      Slimes (Edit 3)_49: 1085252161177181533
+      Slimes (Edit 3)_5: -7168974529181329004
+      Slimes (Edit 3)_50: -238546123730024847
+      Slimes (Edit 3)_51: 1059144981749375230
+      Slimes (Edit 3)_52: 7371461498766877522
+      Slimes (Edit 3)_53: 241655411637625222
+      Slimes (Edit 3)_54: 3823220142856021870
+      Slimes (Edit 3)_55: -4836466598857556877
+      Slimes (Edit 3)_56: -26090484084512055
+      Slimes (Edit 3)_57: 8091213395631756310
+      Slimes (Edit 3)_58: 5834875544673221298
+      Slimes (Edit 3)_59: -2245477164359300471
+      Slimes (Edit 3)_6: 2498542905617886126
+      Slimes (Edit 3)_60: 5136497296805873837
+      Slimes (Edit 3)_61: -720811993463062427
+      Slimes (Edit 3)_62: -4611243579638718341
+      Slimes (Edit 3)_63: 2636380586742923946
+      Slimes (Edit 3)_64: 8482849916744659632
+      Slimes (Edit 3)_65: 2826751838526214037
+      Slimes (Edit 3)_66: 1223616142937138026
+      Slimes (Edit 3)_67: 6965131296748443810
+      Slimes (Edit 3)_68: -4437218289290601184
+      Slimes (Edit 3)_69: 1592665467373737885
+      Slimes (Edit 3)_7: -3402080187004821182
+      Slimes (Edit 3)_70: -8563140094245712371
+      Slimes (Edit 3)_71: -2444099137162674376
+      Slimes (Edit 3)_72: -5111665666900068182
+      Slimes (Edit 3)_73: -1749526598952962375
+      Slimes (Edit 3)_74: 31445959189373948
+      Slimes (Edit 3)_75: 5515607774841450070
+      Slimes (Edit 3)_76: -2802065101992450715
+      Slimes (Edit 3)_77: 4234042894184138219
+      Slimes (Edit 3)_78: 9096235824509414146
+      Slimes (Edit 3)_79: 6498903523930460506
+      Slimes (Edit 3)_8: 4211362902546698386
+      Slimes (Edit 3)_80: 5418966865084998848
+      Slimes (Edit 3)_81: -5662243319715137589
+      Slimes (Edit 3)_82: 5557041531394685330
+      Slimes (Edit 3)_83: -6984374157009662049
+      Slimes (Edit 3)_84: -2876817498397556023
+      Slimes (Edit 3)_85: -1968140104681975845
+      Slimes (Edit 3)_86: 4568432846306721457
+      Slimes (Edit 3)_87: 388536020488113277
+      Slimes (Edit 3)_88: 9087743106015467962
+      Slimes (Edit 3)_89: 217328713134495635
+      Slimes (Edit 3)_9: -1229766086904160843
+      Slimes (Edit 3)_90: 2342343161326105406
+      Slimes (Edit 3)_91: 3168277736215816952
+      Slimes (Edit 3)_92: 3262472882529862521
+      Slimes (Edit 3)_93: -3422421081339632001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
