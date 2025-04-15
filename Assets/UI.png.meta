@@ -97,7 +97,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -199,15 +199,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_0
+      name: Bar_Health
       rect:
         serializedVersion: 2
         x: 0
-        y: 74
-        width: 58
-        height: 22
+        y: 75
+        width: 57
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -221,15 +221,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_1
+      name: Bar_Mana
       rect:
         serializedVersion: 2
-        x: 63
-        y: 76
-        width: 47
-        height: 20
+        x: 64
+        y: 77
+        width: 45
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,15 +243,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_2
+      name: Button_Increase
       rect:
         serializedVersion: 2
         x: 0
-        y: 49
-        width: 17
-        height: 18
+        y: 50
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -265,15 +265,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_3
+      name: Label_Increase
       rect:
         serializedVersion: 2
-        x: 9
-        y: 41
-        width: 33
-        height: 9
+        x: 10
+        y: 42
+        width: 31
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -287,15 +287,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_4
+      name: Button_Decrease
       rect:
         serializedVersion: 2
-        x: 16
-        y: 49
-        width: 18
-        height: 18
+        x: 17
+        y: 50
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,15 +309,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_5
+      name: Button_Cancel
       rect:
         serializedVersion: 2
-        x: 33
-        y: 49
-        width: 18
-        height: 18
+        x: 34
+        y: 50
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,15 +331,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_6
+      name: Label_Cancel
       rect:
         serializedVersion: 2
-        x: 41
-        y: 41
-        width: 27
-        height: 9
+        x: 42
+        y: 42
+        width: 25
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,15 +353,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_7
+      name: Button_Enter
       rect:
         serializedVersion: 2
-        x: 50
-        y: 49
-        width: 18
-        height: 18
+        x: 51
+        y: 50
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,15 +375,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_8
+      name: Button_Blank
       rect:
         serializedVersion: 2
-        x: 67
-        y: 49
-        width: 18
-        height: 18
+        x: 68
+        y: 50
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -397,15 +397,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_9
+      name: Label_Choose-Upgrade
       rect:
         serializedVersion: 2
-        x: 68
-        y: 35
-        width: 35
-        height: 15
+        x: 69
+        y: 36
+        width: 33
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -419,15 +419,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_10
+      name: Button_Settings
       rect:
         serializedVersion: 2
-        x: 88
-        y: 49
-        width: 21
-        height: 21
+        x: 89
+        y: 50
+        width: 19
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -441,15 +441,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_11
+      name: SymbolLabel_Health
       rect:
         serializedVersion: 2
-        x: 2
-        y: 25
-        width: 26
-        height: 9
+        x: 3
+        y: 26
+        width: 24
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -463,15 +463,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_12
+      name: Label_Decrease
       rect:
         serializedVersion: 2
-        x: 9
-        y: 33
-        width: 35
-        height: 9
+        x: 10
+        y: 34
+        width: 33
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -485,15 +485,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_13
+      name: SymbolLabel_Mana
       rect:
         serializedVersion: 2
-        x: 31
-        y: 25
-        width: 21
-        height: 9
+        x: 32
+        y: 26
+        width: 19
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -507,15 +507,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_14
+      name: Label_Enter
       rect:
         serializedVersion: 2
-        x: 43
-        y: 33
-        width: 23
-        height: 9
+        x: 44
+        y: 34
+        width: 21
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -529,15 +529,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_15
+      name: SymbolLabel_Power
       rect:
         serializedVersion: 2
-        x: 56
-        y: 25
-        width: 25
-        height: 9
+        x: 57
+        y: 26
+        width: 23
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -551,15 +551,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_16
+      name: SymbolLabel_Speed
       rect:
         serializedVersion: 2
-        x: 84
-        y: 25
-        width: 23
-        height: 9
+        x: 85
+        y: 26
+        width: 21
+        height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -573,15 +573,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_17
+      name: Symbol_Health
       rect:
         serializedVersion: 2
-        x: 1
+        x: 2
         y: 0
-        width: 27
-        height: 26
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -595,15 +595,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_18
+      name: Symbol_Mana
       rect:
         serializedVersion: 2
-        x: 28
+        x: 29
         y: 0
-        width: 27
-        height: 26
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -617,15 +617,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_19
+      name: Symbol_Power
       rect:
         serializedVersion: 2
-        x: 55
+        x: 56
         y: 0
-        width: 27
-        height: 26
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -639,15 +639,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_20
+      name: Symbol_Speed
       rect:
         serializedVersion: 2
-        x: 82
+        x: 83
         y: 0
-        width: 27
-        height: 26
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -664,7 +664,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 84a4dbb5517f3ab44bc45fc41c000ced
     internalID: 0
     vertices: []
     indices: 
@@ -673,7 +673,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bar_Health: -1557013538026691241
+      Bar_Mana: 82707731993968007
+      Button_Blank: -6595680761151332689
+      Button_Cancel: 8160775752198118580
+      Button_Decrease: 8586885197115800619
+      Button_Enter: 7843416716369364892
+      Button_Increase: 1080825480604336155
+      Button_Settings: 8391660652416901024
+      Label_Cancel: 7448113381798972013
+      Label_Choose-Upgrade: -273060469431498887
+      Label_Decrease: -4532114073746202998
+      Label_Enter: -343943630576144839
+      Label_Increase: -9136572144232859775
+      SymbolLabel_Health: 9094600903545770030
+      SymbolLabel_Mana: -8346291274449466048
+      SymbolLabel_Power: 7301787903208175943
+      SymbolLabel_Speed: 1652299931923453484
+      Symbol_Health: 388057999756033245
+      Symbol_Mana: -5481780447360278658
+      Symbol_Power: 228940821244427079
+      Symbol_Speed: 6620621745411573659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

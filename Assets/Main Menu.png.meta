@@ -139,7 +139,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -150,7 +150,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -1023,7 +1023,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Main Menu_0: 5561665765474925660
+      Main Menu_1: 2798250516866983683
+      Main Menu_10: 2615392479151352347
+      Main Menu_11: -4659858343778866989
+      Main Menu_12: 1574988882871425895
+      Main Menu_13: -5175326187182453980
+      Main Menu_14: -4935935320691236936
+      Main Menu_15: 3951822311937420168
+      Main Menu_16: 5902914238691203604
+      Main Menu_17: -2984930613132008756
+      Main Menu_18: -745213713787161180
+      Main Menu_19: -6600648759769924331
+      Main Menu_2: 6936311897552531074
+      Main Menu_20: 7149347712561770475
+      Main Menu_21: -8881364982049433544
+      Main Menu_22: -2915615112947138539
+      Main Menu_23: 6493628582330048861
+      Main Menu_24: 2504232462382551217
+      Main Menu_25: 2363586017066381328
+      Main Menu_26: -669129208079377110
+      Main Menu_27: 6418783829573834695
+      Main Menu_28: 7912445853493260651
+      Main Menu_29: -1705175644552388581
+      Main Menu_3: -8138443389130145745
+      Main Menu_30: -2862227081263352294
+      Main Menu_31: -296601859299081790
+      Main Menu_32: 1926054598539263019
+      Main Menu_33: 521665340033571861
+      Main Menu_34: -848476169885245832
+      Main Menu_4: -4414203378016231432
+      Main Menu_5: -3164267288016770645
+      Main Menu_6: -809140138612544567
+      Main Menu_7: -3928912501435621578
+      Main Menu_8: -4484255796881045313
+      Main Menu_9: -4389475402130650217
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

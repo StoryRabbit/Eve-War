@@ -2,21 +2,19 @@ using UnityEngine;
 using UnityEngine.Rendering;
 
 [CreateAssetMenu(fileName = "Eve", menuName = "Scriptable Objects/Eve")]
-public class Eve : ScriptableObject
-{
-    #region Base Variables
+public class Eve : ScriptableObject {
     [Header("Eve Stats")]
-        public int eveHealth = 0; // Varies from 1 to 10
-        public int eveSize = 0; // Varies
-        public float eveSpeed = 0f; // Varies from 1 to 10
-        public int eveStrength = 0; // Varies from 1 to 5
+    public int eveHealth = 0; // Varies from 1 to 10
+    public int eveSize = 0; // Varies
+    public float eveSpeed = 0f; // Varies from 1 to 10
+    public int eveStrength = 0; // Varies from 1 to 5
 
     [Header("Eve Points")]
-        public int pointGeneration = 5;
+    public int pointGeneration = 5;
 
     [Header("Base Core")]
-        public int baseCore = 20;
-    #endregion
+    public int baseCore = 20;
+    
 
     // Health
     public int baseHealth() => eveHealth * (1 * eveSize);
